@@ -1,2 +1,2 @@
 # FuncionenGO
-Funciones básicas en GO
+Ejercicios de sintaxis en GoLang
